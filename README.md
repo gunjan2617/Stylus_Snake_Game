@@ -17,4 +17,4 @@ We will create a virtual drawing pad (VDP) that will track an object for drawing
 **4.** Contour Detection  
 
 ## Link to the video of the project
-Click [here](https://drive.google.com/file/d/1fjGlOwH9nCM6ie6hgwiNMgZJCC_4Cz9e/view?usp=sharing)
+Click [here](https://drive.google.com/file/d/1fjGlOwH9nCM6ie6hgwiNMgZJCC_4Cz9e/view?usp=sharing) to view the demonstration. 
