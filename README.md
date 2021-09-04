@@ -10,6 +10,7 @@ We will create a virtual drawing pad (VDP) that will track an object for drawing
 **Step 6:** Find the object’s x,y coordinates to draw on the screen.  
 **Step 8:** Detect and track the object with contour detection.  
 
+
 ## Concepts Required :
 **1.** Image Thersholding   
 **2.** Smoothing and filtering   
