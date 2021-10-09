@@ -17,7 +17,8 @@ We will create a virtual drawing pad (VDP) that will track an object for drawing
 **3.** Morphological Operations such as Dilation and Erosion  
 **4.** Contour Detection  
 
-# Snake Game 
+
+# Snake_Game 
 Creating a snake game operated with keys 
 
 ## Structure:   
@@ -29,6 +30,23 @@ length of snake, x and y coordinates of food.
 **Step 5:** Change the direction of the snake according to LEFT,RIGHT,UP,DOWN keys given as input.  
 **Step 6:** Closing the game if touches the hurdle or the game window boundary or itself.  
 **Step 7:** Increase length of the snake if it eats the food and then generate the new food at some other position.  
+
+
+# Stylus_Snake_Game  
+The VDP code and snake game code has to be linked
+
+## Structure:  
+**Step 1:** Using ROI , take the HSV value of the stylus and average all the values. This is to avoid manually feeding HSV value through trackbars.  
+**Step 2:** Define four regions on camera window (LEFT,RIGHT,UP,DOWN).  
+**Step 3:** Check if the centroid of the stylus lies inside the region defined. 
+**Step 4:** Remove the key part from the snake game code to use stylus.
+**Step 5:** Use the cetroid obtained from contours and pass it to the function used for checking the region.  
+**Step 6:** Insert hurdles by defining the wall range in x direction and y direction and build up a logic for closing the game if snake touches the hurdle.  
+**Step 7:** In this way stylus gets linked to the snake game.
+
+## Concepts Required :
+**Step 1:** Use of ROI and image thresholding  
+**Step 2:** pygame concepts  
 
 
 ## Link to the video of the project
