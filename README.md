@@ -46,7 +46,7 @@ The VDP code and snake game code has to be linked
 
 ## Concepts Required :
 **Step 1:** Use of ROI and image thresholding  
-**Step 2:** pygame concepts  
+**Step 2:** pygame concepts   
 
 
 ## Link to the video of the project
