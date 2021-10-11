@@ -59,4 +59,4 @@ The VDP code and snake game code has to be linked
 
 
 ## Link to the video of the project
-Click [here](https://drive.google.com/file/d/1fjGlOwH9nCM6ie6hgwiNMgZJCC_4Cz9e/view?usp=sharing) to view the demonstration. 
+Click [here](https://drive.google.com/drive/folders/1QKNdxNRJIFjskXf8WHzYAuR21d4I_RGY?usp=sharing) to view the demonstration. 
