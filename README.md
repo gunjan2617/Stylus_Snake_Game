@@ -34,6 +34,8 @@ length of snake, x and y coordinates of food.
 **Step 6:** Closing the game if touches the hurdle or the game window boundary or itself.  
 **Step 7:** Increase length of the snake if it eats the food and then generate the new food at some other position.  
 
+![Screenshot (4682)](https://user-images.githubusercontent.com/88222317/136739895-f3aaedca-1608-44f1-86f3-f5e8fc3c2340.png)
+
 
 # Stylus_Snake_Game  
 The VDP code and snake game code has to be linked
@@ -46,6 +48,10 @@ The VDP code and snake game code has to be linked
 **Step 5:** Use the cetroid obtained from contours and pass it to the function used for checking the region.  
 **Step 6:** Insert hurdles by defining the wall range in x direction and y direction and build up a logic for closing the game if snake touches the hurdle.  
 **Step 7:** In this way stylus gets linked to the snake game.
+
+![Screenshot (4679)](https://user-images.githubusercontent.com/88222317/136739953-27fbf93c-10e5-4714-b830-85949ca8bee8.png)
+
+![Screenshot (4680)](https://user-images.githubusercontent.com/88222317/136740038-152f74c1-1149-4f84-98fe-baf86739c25e.png)
 
 ## Concepts Required :
 **Step 1:** Use of ROI and image thresholding  
