@@ -49,9 +49,9 @@ The VDP code and snake game code has to be linked
 **Step 6:** Insert hurdles by defining the wall range in x direction and y direction and build up a logic for closing the game if snake touches the hurdle.  
 **Step 7:** In this way stylus gets linked to the snake game.
 
-![Screenshot (4679)](https://user-images.githubusercontent.com/88222317/136739953-27fbf93c-10e5-4714-b830-85949ca8bee8.png)
+<img src="https://user-images.githubusercontent.com/88222317/136739953-27fbf93c-10e5-4714-b830-85949ca8bee8.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136739953-27fbf93c-10e5-4714-b830-85949ca8bee8.png" width="300" height="300" />
 
-![Screenshot (4680)](https://user-images.githubusercontent.com/88222317/136740038-152f74c1-1149-4f84-98fe-baf86739c25e.png)
+<img src="https://user-images.githubusercontent.com/88222317/136740038-152f74c1-1149-4f84-98fe-baf86739c25e.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136740038-152f74c1-1149-4f84-98fe-baf86739c25e.png" width="300" height="300" />
 
 ## Concepts Required :
 **Step 1:** Use of ROI and image thresholding  
