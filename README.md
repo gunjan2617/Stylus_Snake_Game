@@ -10,7 +10,7 @@ We will create a virtual drawing pad (VDP) that will track an object for drawing
 **Step 6:** Find the object’s x,y coordinates to draw on the screen.  
 **Step 8:** Detect and track the object with contour detection.  
 
-<img src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" width="700" height="200" />
+<img src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" width="650" height="150" />
 
 
 
@@ -49,7 +49,7 @@ The VDP code and snake game code has to be linked
 **Step 6:** Insert hurdles by defining the wall range in x direction and y direction and build up a logic for closing the game if snake touches the hurdle.  
 **Step 7:** In this way stylus gets linked to the snake game.
 
-<img src="https://user-images.githubusercontent.com/88222317/136739953-27fbf93c-10e5-4714-b830-85949ca8bee8.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136739953-27fbf93c-10e5-4714-b830-85949ca8bee8.png" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/88222317/136739953-27fbf93c-10e5-4714-b830-85949ca8bee8.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136739953-27fbf93c-10e5-4714-b830-85949ca8bee8.png" width="250" height="250" />
 
 <img src="https://user-images.githubusercontent.com/88222317/136740038-152f74c1-1149-4f84-98fe-baf86739c25e.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136740038-152f74c1-1149-4f84-98fe-baf86739c25e.png" width="500" height="300" />
 
