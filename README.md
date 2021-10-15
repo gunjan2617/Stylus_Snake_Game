@@ -34,9 +34,7 @@ length of snake, x and y coordinates of food.
 **Step 6:** Closing the game if touches the hurdle or the game window boundary or itself.  
 **Step 7:** Increase length of the snake if it eats the food and then generate the new food at some other position.  
 
-![Screenshot (4682)](https://user-images.githubusercontent.com/88222317/136739895-f3aaedca-1608-44f1-86f3-f5e8fc3c2340.png)
-
-<img src="https://user-images.githubusercontent.com/88222317/136739895-f3aaedca-1608-44f1-86f3-f5e8fc3c2340.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136739895-f3aaedca-1608-44f1-86f3-f5e8fc3c2340.png" width="700" height="200" />
+<img src="https://user-images.githubusercontent.com/88222317/136739895-f3aaedca-1608-44f1-86f3-f5e8fc3c2340.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136739895-f3aaedca-1608-44f1-86f3-f5e8fc3c2340.png" width="400" height="400" />
 
 
 # Stylus_Snake_Game  
