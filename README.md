@@ -12,6 +12,8 @@ We will create a virtual drawing pad (VDP) that will track an object for drawing
 
 ![Screenshot (4683)](https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png)
 
+<img src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" width="200" height="400" />
+
 
 
 ## Concepts Required :
