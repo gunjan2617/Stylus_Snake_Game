@@ -10,7 +10,7 @@ We will create a virtual drawing pad (VDP) that will track an object for drawing
 **Step 6:** Find the object’s x,y coordinates to draw on the screen.  
 **Step 8:** Detect and track the object with contour detection.  
 
-<img src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" width="400" height="400" />
+<img src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" width="800" height="200" />
 
 
 
