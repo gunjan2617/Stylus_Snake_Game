@@ -10,7 +10,7 @@ We will create a virtual drawing pad (VDP) that will track an object for drawing
 **Step 6:** Find the object’s x,y coordinates to draw on the screen.  
 **Step 8:** Detect and track the object with contour detection.  
 
-<img src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" width="800" height="200" />
+<img src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136737452-e78d8dbe-fcbf-4203-8728-8dd554ae466b.png" width="700" height="200" />
 
 
 
@@ -35,6 +35,8 @@ length of snake, x and y coordinates of food.
 **Step 7:** Increase length of the snake if it eats the food and then generate the new food at some other position.  
 
 ![Screenshot (4682)](https://user-images.githubusercontent.com/88222317/136739895-f3aaedca-1608-44f1-86f3-f5e8fc3c2340.png)
+
+<img src="https://user-images.githubusercontent.com/88222317/136739895-f3aaedca-1608-44f1-86f3-f5e8fc3c2340.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136739895-f3aaedca-1608-44f1-86f3-f5e8fc3c2340.png" width="700" height="200" />
 
 
 # Stylus_Snake_Game  
