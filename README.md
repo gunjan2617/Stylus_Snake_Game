@@ -51,7 +51,9 @@ The VDP code and snake game code has to be linked
 
 <img src="https://user-images.githubusercontent.com/88222317/136739953-27fbf93c-10e5-4714-b830-85949ca8bee8.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136739953-27fbf93c-10e5-4714-b830-85949ca8bee8.png" width="200" height="200" />
 
-![Alt Text]((https://user-images.githubusercontent.com/88222317/137592223-ddf9dbf7-e8df-4aa9-a799-8ca12ad58a32.gif)
+![Alt Text](https://user-images.githubusercontent.com/88222317/137592223-ddf9dbf7-e8df-4aa9-a799-8ca12ad58a32.gif)
+
+<img src="https://user-images.githubusercontent.com/88222317/137592223-ddf9dbf7-e8df-4aa9-a799-8ca12ad58a32.gif" width="100" height="100" />
 
 <img src="https://user-images.githubusercontent.com/88222317/136740038-152f74c1-1149-4f84-98fe-baf86739c25e.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136740038-152f74c1-1149-4f84-98fe-baf86739c25e.png" width="400" height="200" />
 
