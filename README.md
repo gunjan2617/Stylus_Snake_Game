@@ -53,7 +53,8 @@ The VDP code and snake game code has to be linked
 **Step 7:** In this way stylus gets linked to the snake game.
 
 <img src="https://user-images.githubusercontent.com/88222317/137592223-ddf9dbf7-e8df-4aa9-a799-8ca12ad58a32.gif" width="300" height="300" />
-<img src="https://user-images.githubusercontent.com/88222317/137592214-0021e4a5-e334-4d2d-b72f-4746fc3fbb5d.gif" width="300" height="300" />
+
+<img src="(https://user-images.githubusercontent.com/88222317/137592165-01f0f9fa-20dc-4b4c-b15c-9f92a11d509b.gif" width="300" height="300" />
 
 
 ## Concepts Required :
