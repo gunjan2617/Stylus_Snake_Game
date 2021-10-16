@@ -24,6 +24,9 @@ We will create a virtual drawing pad (VDP) that will track an object for drawing
 # Snake_Game 
 Creating a snake game operated with keys 
 
+<img src="https://user-images.githubusercontent.com/88222317/136740038-152f74c1-1149-4f84-98fe-baf86739c25e.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136740038-152f74c1-1149-4f84-98fe-baf86739c25e.png" width="400" height="200" />
+
+
 ## Structure:   
 **Step 1:** Initialise the game window by declaring window parameters that is height and width.  
 **Step 2:** Define functions such as for the score, for snake, for output message and for the main game loop.  
@@ -49,9 +52,9 @@ The VDP code and snake game code has to be linked
 **Step 6:** Insert hurdles by defining the wall range in x direction and y direction and build up a logic for closing the game if snake touches the hurdle.  
 **Step 7:** In this way stylus gets linked to the snake game.
 
-<img src="https://user-images.githubusercontent.com/88222317/137592223-ddf9dbf7-e8df-4aa9-a799-8ca12ad58a32.gif" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/88222317/137592223-ddf9dbf7-e8df-4aa9-a799-8ca12ad58a32.gif" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/88222317/137592214-0021e4a5-e334-4d2d-b72f-4746fc3fbb5d.gif" width="300" height="300" />
 
-<img src="https://user-images.githubusercontent.com/88222317/136740038-152f74c1-1149-4f84-98fe-baf86739c25e.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136740038-152f74c1-1149-4f84-98fe-baf86739c25e.png" width="400" height="200" />
 
 ## Concepts Required :
 **Step 1:** Use of ROI and image thresholding  
