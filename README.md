@@ -45,8 +45,8 @@ The VDP code and snake game code has to be linked
 
 ## Structure:  
 **Step 1:** Using ROI , take the HSV value of the stylus and average all the values. This is to avoid manually feeding HSV value through trackbars.  
-**Step 2:** Define four regions on camera window (LEFT,RIGHT,UP,DOWN).  
-**Step 3:** Check if the centroid of the stylus lies inside the region defined. 
+**Step 2:** Define four regions on camera window (LEFT,RIGHT,UP,DOWN).   
+**Step 3:** Check if the centroid of the stylus lies inside the region defined.   
 **Step 4:** Remove the key part from the snake game code to use stylus.
 **Step 5:** Use the cetroid obtained from contours and pass it to the function used for checking the region.  
 **Step 6:** Insert hurdles by defining the wall range in x direction and y direction and build up a logic for closing the game if snake touches the hurdle.  
