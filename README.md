@@ -32,9 +32,9 @@ Creating a snake game operated with keys
 **Step 2:** Define functions such as for the score, for snake, for output message and for the main game loop.  
 **Step 3:** Inside game loop initiate all the variables such as snake's initial position, bool for game close and game over,
 length of snake, x and y coordinates of food.   
-**Step 4:** Using loop to either continue the game or close the game according to input given.  
-**Step 5:** Change the direction of the snake according to LEFT,RIGHT,UP,DOWN keys given as input.  
-**Step 6:** Closing the game if touches the hurdle or the game window boundary or itself.  
+**Step 4:** Using loop to either continue the game or close the game according to input given.   
+**Step 5:** Change the direction of the snake according to LEFT,RIGHT,UP,DOWN keys given as input.   
+**Step 6:** Closing the game if touches the hurdle or the game window boundary or itself.   
 **Step 7:** Increase length of the snake if it eats the food and then generate the new food at some other position.  
 
 <img src="https://user-images.githubusercontent.com/88222317/136739895-f3aaedca-1608-44f1-86f3-f5e8fc3c2340.png" data-canonical-src="https://user-images.githubusercontent.com/88222317/136739895-f3aaedca-1608-44f1-86f3-f5e8fc3c2340.png" width="250" height="250" />
